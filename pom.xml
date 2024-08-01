@@ -97,13 +97,13 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>KK FUNDA Releases Nexus Repository</name>
+	      <name>gsp-release</name>
 	      <url>http://107.20.64.87:8082/gsp/repository/gsp-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>KK FUNDA Snapshot Nexus Repository </name>
+	      <name>gsp-snapshot</name>
 	      <url>http://107.20.64.87:8082/gsp/repository/gsp-snapshot/</url>
 	    </snapshotRepository>
 	    
