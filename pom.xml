@@ -98,7 +98,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>gsp-release</name>
-	      <url>http://3.82.11.222:8082/gsp/repository/gsp-release/</url>
+	      <url>http://54.144.228.106:8081/repository/release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
