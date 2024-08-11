@@ -104,7 +104,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>gsp-snapshot</name>
-	      <url>http://3.82.11.222:8082/gsp/repository/gsp-snapshot/</url>
+	      <url>http://54.224.6.40:8082/repository/snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
